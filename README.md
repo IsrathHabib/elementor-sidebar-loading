@@ -17,4 +17,4 @@ Elementor Loading Problem | How To Solved
 
 ****Extra***
 update the PHP version
-use elementor 3.3.3 version
+use elementor-pro 3.3.3 version
