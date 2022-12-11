@@ -1,7 +1,7 @@
 # elementor-sidebar-loading
 Elementor Loading Problem | How To Solved 
 ---------------------------------------------------------------------------------------------
-  Get Code: Change the wp-confiq.php file:-
+  Get Code: Change the wp-config.php file:-
 
   define('WP_DEBUG', false); 
   define('WP_HTTP_BLOCK_EXTERNAL', false);
